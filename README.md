@@ -14,11 +14,11 @@
 
 | Number | Memory | Time | Done |
 |----------------|---------------|---------------|---------------|
-| [1191](https://www.acmicpc.net/problem/1991) |   |  | <li>[x]</li> |
-| [5639](https://www.acmicpc.net/problem/5693)   |   |  | [] |
-| [1197](https://www.acmicpc.net/problem/1197)   |   |  | [] |
-| [1260](https://www.acmicpc.net/problem/1260)   |   |  | [] |
-| [11724](https://www.acmicpc.net/problem/11724)   |   |  | [] |
-| [2606](https://www.acmicpc.net/problem/2606)   |   |  | [] |
+| [1191](https://www.acmicpc.net/problem/1991) |   |  | - [ ] done |
+| [5639](https://www.acmicpc.net/problem/5693)   |   |  | - [ ] done |
+| [1197](https://www.acmicpc.net/problem/1197)   |   |  | - [ ] done |
+| [1260](https://www.acmicpc.net/problem/1260)   |   |  | - [ ] done |
+| [11724](https://www.acmicpc.net/problem/11724)   |   |  | - [ ] done |
+| [2606](https://www.acmicpc.net/problem/2606)   |   |  | - [ ] done |
 
 
