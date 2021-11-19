@@ -14,8 +14,8 @@
 | Number                                         | Memory | Time | Done       | Lang   |
 | ---------------------------------------------- | ------ | ---- | ---------- | ------ |
 | [1191](https://www.acmicpc.net/problem/1991)   | 8432   | 132  | - [X] done | nodejs |
-| [5639](https://www.acmicpc.net/problem/5693)   |        |      | - [ ] done |        |
+| [5639](https://www.acmicpc.net/problem/5693)   | 39476  | 3036 | - [X] done | python |
 | [1197](https://www.acmicpc.net/problem/1197)   |        |      | - [ ] done |        |
-| [1260](https://www.acmicpc.net/problem/1260)   |        |      | - [ ] done |        |
+| [1260](https://www.acmicpc.net/problem/1260)   | 33144  | 504  | - [X] done | python |
 | [11724](https://www.acmicpc.net/problem/11724) |        |      | - [ ] done |        |
-| [2606](https://www.acmicpc.net/problem/2606)   |        |      | - [ ] done |        |
+| [2606](https://www.acmicpc.net/problem/2606)   | 32040  | 96   | - [X] done | python |
