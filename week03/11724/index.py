@@ -1,7 +1,6 @@
 import sys
-from collections import deque
 
-sys.setrecursionlimit(10 ** 9)
+sys.setrecursionlimit(10000)
 
 def dfs(v):
     visited[v] = True
@@ -9,13 +8,13 @@ def dfs(v):
         if not visited[e]:
             dfs(e)
             
-N, M = map(int, input().split())
+N, M = map(int, sys.stdin.readline().split())
 adj = [[] for _ in range(N + 1)]
 visited = [False] * (N + 1)
 count = 0
 
 for _ in range(M):
-    u, v = map(int, input().split())
+    u, v = map(int, sys.stdin.readline().split())
     adj[u].append(v)
     adj[v].append(u)
     
